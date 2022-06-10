@@ -90,10 +90,10 @@ div.pics img {
 }
 
 div.pics {
-  background-image: url(/static/person.jpg);
+  background-image: url(/static/person.png);
   background-position: center;
   background-size: cover;
-  height: 450px;
+  height: 550px;
   border-radius: 5px;
 }
 
